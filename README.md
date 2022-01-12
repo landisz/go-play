@@ -1,3 +1,3 @@
-# go-play
+# Go-play
 Golang practice
 
